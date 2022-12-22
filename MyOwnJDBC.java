@@ -165,7 +165,7 @@ public class MyOwnJDBC extends Function {
                 createTable(this.DBused, words[1],tableValue );
                 break;
                 
-            case "manamboara_datatase":
+            case "manamboara_database":
                 createDataBase(words[1]);
                 break;
 
